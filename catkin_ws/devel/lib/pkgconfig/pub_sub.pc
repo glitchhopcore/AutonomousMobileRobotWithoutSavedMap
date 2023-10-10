@@ -1,0 +1,1 @@
+/home/doublebrackets/turtlebot/catkin_ws/devel/.private/pub_sub/lib/pkgconfig/pub_sub.pc

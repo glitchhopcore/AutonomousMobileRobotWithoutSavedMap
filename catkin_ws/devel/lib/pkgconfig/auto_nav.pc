@@ -1,0 +1,1 @@
+/home/doublebrackets/turtlebot/catkin_ws/devel/.private/auto_nav/lib/pkgconfig/auto_nav.pc

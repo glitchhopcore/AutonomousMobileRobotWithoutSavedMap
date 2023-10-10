@@ -1,0 +1,1 @@
+/home/doublebrackets/turtlebot/catkin_ws/devel/.private/turtlebot3_fake/lib/pkgconfig/turtlebot3_fake.pc

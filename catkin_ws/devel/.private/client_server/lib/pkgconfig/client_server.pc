@@ -1,0 +1,8 @@
+prefix=/home/doublebrackets/turtlebot/catkin_ws/devel/.private/client_server
+
+Name: client_server
+Description: Description of client_server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

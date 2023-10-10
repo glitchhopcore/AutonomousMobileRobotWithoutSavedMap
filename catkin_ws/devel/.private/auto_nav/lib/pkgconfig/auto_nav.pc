@@ -1,0 +1,8 @@
+prefix=/home/doublebrackets/turtlebot/catkin_ws/devel/.private/auto_nav
+
+Name: auto_nav
+Description: Description of auto_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

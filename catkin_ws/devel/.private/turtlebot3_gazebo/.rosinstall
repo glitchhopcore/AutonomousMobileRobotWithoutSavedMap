@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/doublebrackets/turtlebot/catkin_ws/devel/.private/turtlebot3_gazebo/setup.sh

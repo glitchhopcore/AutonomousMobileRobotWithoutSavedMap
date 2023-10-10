@@ -1,0 +1,3 @@
+Symlinking /home/doublebrackets/turtlebot/catkin_ws/devel/lib/pkgconfig/auto_nav.pc
+Symlinking /home/doublebrackets/turtlebot/catkin_ws/devel/share/auto_nav/cmake/auto_navConfig.cmake
+Symlinking /home/doublebrackets/turtlebot/catkin_ws/devel/share/auto_nav/cmake/auto_navConfig-version.cmake
