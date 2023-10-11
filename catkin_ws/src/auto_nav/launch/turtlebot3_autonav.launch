@@ -29,7 +29,7 @@
   <!-- rviz -->
   <group if="$(arg open_rviz)"> 
 	<node pkg="rviz" type="rviz" name="rviz" required="true"
-		  args="-d $(find turtlebot3_navigation)/rviz/turtlebot3_navigation.rviz"/>
+		  args="-d $(find auto_nav)/rviz/turtlebot3_autonav.rviz"/>
   </group>
 </launch>
 
